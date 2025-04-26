@@ -1,2 +1,2 @@
 # CustomerLifeTimeValue
-Customer lifetime Value model 
+This project focuses on predicting the Customer Lifetime Value (LTV) using historical purchase behaviour from an online retail dataset. LTV prediction is crucial in targeted marketing, customer retention, and resource allocation. The project involves extensive data preprocessing, feature engineering, and the application of multiple regression models (Linear Regression, Decision Tree, Random Forest, XGBoost, and Gradient Boosting) to identify high-value customers. The final output includes customer segmentation and visualizations for business insights.
